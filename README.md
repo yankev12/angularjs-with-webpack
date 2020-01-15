@@ -1,3 +1,4 @@
+ reference project http://angular-tips.com/blog/2015/06/using-angular-1-dot-x-with-es6-and-webpack/
 # angularjs-webpack
 
 [![Dependency Status](https://david-dm.org/preboot/angularjs-webpack/status.svg)](https://david-dm.org/preboot/angular-webpack#info=dependencies) [![devDependency Status](https://david-dm.org/preboot/angularjs-webpack/dev-status.svg)](https://david-dm.org/preboot/angularjs-webpack#info=devDependencies)
